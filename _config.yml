@@ -2,7 +2,7 @@ title: Picross Quest Support
 author: Shiraran Studio
 
 description: Official help center for Picross Quest players.
-url: "https://shiraransp.github.io"
+url: "https://shiraran.github.io"
 baseurl: ""
 
 navbar-links:
@@ -32,7 +32,7 @@ share-links-active:
   vk: false
   reddit: false
 
-url-pretty: "shiraransp.github.io"
+url-pretty: "shiraran.github.io"
 title-on-all-pages: true
 excerpt_length: 50
 feed_show_excerpt: false
