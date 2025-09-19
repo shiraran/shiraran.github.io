@@ -8,14 +8,14 @@ permalink: /
 <div class="hero-banner">
   <h1>Picross Quest Support</h1>
   <p>Your hub for help, troubleshooting tips, and feedback about the game.</p>
-  <a class="btn btn-primary" href="mailto:support@shiraransp.com">Contact Support</a>
+  <a class="btn btn-primary" href="mailto:support@shiraran.com">Contact Support</a>
 </div>
 
 <div id="contact" class="support-section">
   <h2>Contact Us</h2>
   <p>If you run into issues, have billing questions, or want to suggest improvements, please reach out.</p>
   <ul class="contact-list">
-    <li><strong>Email:</strong> <a href="mailto:support@shiraransp.com">support@shiraransp.com</a></li>
+    <li><strong>Email:</strong> <a href="mailto:support@shiraran.com">support@shiraran.com</a></li>
     <li><strong>Response Time:</strong> We aim to reply within 2 business days (Monday–Friday).</li>
     <li><strong>Languages:</strong> English, Japanese</li>
   </ul>

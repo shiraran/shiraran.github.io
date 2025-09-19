@@ -54,6 +54,6 @@ permalink: /privacy
 
 <div class="support-section">
   <h2>Contact</h2>
-  <p>If you have privacy questions or requests, email <a href="mailto:support@shiraransp.com">support@shiraransp.com</a>.</p>
+  <p>If you have privacy questions or requests, email <a href="mailto:support@shiraran.com">support@shiraran.com</a>.</p>
   <p><strong>Last Updated:</strong> September 30, 2024</p>
 </div>
